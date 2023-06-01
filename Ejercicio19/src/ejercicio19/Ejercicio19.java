@@ -71,4 +71,4 @@ public class Ejercicio19 {
     }
         System.out.println("La matriz es antisimetrica? " +antisimetria);
 }
-}
+} 

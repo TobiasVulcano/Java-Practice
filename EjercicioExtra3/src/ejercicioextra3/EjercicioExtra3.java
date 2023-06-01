@@ -24,4 +24,4 @@ public class EjercicioExtra3 {
             System.out.println(letra+ " no es una vocal");
     }
     
-}
+} 

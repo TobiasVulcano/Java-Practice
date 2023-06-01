@@ -104,6 +104,6 @@ public class Ejercicio20 {
               System.out.println("La matriz no es magica");
           
       }
-}
+} 
      
 

@@ -85,4 +85,4 @@ public class EjercicioExtra7 {
         prom = prom / nums;
         System.out.println("El promedio de los numeros es: " +prom+ ", el valor maximo es: " +valorMax+ " y el valor minimo es: " +valorMin);
     }
-}
+} 

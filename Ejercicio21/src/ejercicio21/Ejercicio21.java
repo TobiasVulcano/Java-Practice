@@ -113,4 +113,4 @@ public class Ejercicio21 {
         }else
             System.out.println("La matriz 10x10 no contiene la matriz 3x3");
     }
-}
+} 

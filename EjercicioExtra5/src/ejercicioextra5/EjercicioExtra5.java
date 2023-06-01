@@ -44,4 +44,4 @@ public class EjercicioExtra5 {
             System.out.println("El costo total del tratamiento seria: " +costo+ "$");
         }
     }
-}
+} 

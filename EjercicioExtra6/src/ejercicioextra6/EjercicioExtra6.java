@@ -43,4 +43,4 @@ public class EjercicioExtra6 {
         System.out.println("El promedio de la estatura es: " +prom+ " y el promedio de estatura menor a 1.60 es: " +promBajo);
     
 }
-}
+} 

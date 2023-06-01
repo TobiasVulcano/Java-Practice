@@ -33,4 +33,4 @@ public class EjercicioExtra1 {
         
         System.out.println(min+ " minutos son: " +dias+ " dias y " +horas+ " horas");
     }
-}
+} 

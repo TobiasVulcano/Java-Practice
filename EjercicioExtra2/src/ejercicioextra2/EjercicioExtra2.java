@@ -31,4 +31,4 @@ public class EjercicioExtra2 {
         D = aux;
         System.out.println("A = " +A+ ", B = " +B+ ", C = " +C+ ", D = " +D);
     }
-}
+} 
